@@ -1,6 +1,6 @@
 # Title
 
-- Time slot: (minutes)
+- Time slot: (15 minutes max)
 
 ## Description
 
