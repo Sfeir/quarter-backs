@@ -23,6 +23,6 @@ please indicate the title, time slot and a description.
 
 Here's what to consider before, during and after meetups 
 
-- [] TODO
-- [] TODO
-- [] TODO
+- [ ] TODO
+- [ ] TODO
+- [ ] TODO
