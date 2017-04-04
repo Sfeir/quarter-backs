@@ -18,3 +18,11 @@ SFEIR will offer snacks and drinks and all events will be held in SFEIR head qua
 
 Please add an issue with "proposal" tag. 
 please indicate the title, time slot and a description.
+
+## Check list
+
+Here's what to consider before, during and after meetups 
+
+- [] TODO
+- [] TODO
+- [] TODO
