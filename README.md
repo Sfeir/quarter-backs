@@ -1,4 +1,4 @@
-# Les Quartiers Back
+# Quarters Back
 
 Welcome to landing page of the new SFEIR back meetups.
 
