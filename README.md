@@ -23,6 +23,10 @@ please indicate the title, time slot and a description.
 
 Here's what to consider before, during and after meetups 
 
-- [ ] TODO
-- [ ] TODO
-- [ ] TODO
+- [ ] Please assign all speakers to the issue
+- [ ] select your milestone (qb-YYYYMMdd)
+- [ ] selection a label
+
+Those information will be used for statistics
+
+Thanks
