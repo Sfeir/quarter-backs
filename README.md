@@ -1,8 +1,10 @@
 ![logo quarters back 2017](LOGO_QUARTERS_BACK.png)
 
 
-### index 
+### Meeting index 
 - [Mai 2nd 2017](https://github.com/Sfeir/quarters-back/milestone/1)
+- [June 6th 2017](https://github.com/Sfeir/quarters-back/milestone/2) ?
+
 
 # Quarters Back
 
@@ -21,19 +23,19 @@ The 'Quarters Back' meetups are open for all with respect of the following :
 
 SFEIR will offer snacks and drinks and all events will be held in SFEIR head quarters and start at 18h30
 
-## How to make a proposal
+## Pre-Talk proposal
 
-Please add an issue with "proposal" tag. 
-please indicate the **title**, **time slot** and a **description**.
+- [ ] Create a new issue
+- [ ] give it a shaky title
+- [ ] indicate time slot (15' max) and a short description
+- [ ] Assign all speakers
+- [ ] select the milestone (qb-YYYYMMdd)
+- [ ] select a label (Talk, Hands-On or Request)
 
-## Check list
+Boom ! done 
 
-Here's what to consider before, during and after meetups 
-
-- [ ] Please assign all speakers to the issue
-- [ ] select your milestone (qb-YYYYMMdd)
-- [ ] selection a label
-
-Those information will be used for statistics
+## Post Talk
+- [ ] add a comment to the issue and add all talk materials (github repository, slides, running demos ...etc)
+- [ ] add a comment to give us a feedback 
 
 Thanks
