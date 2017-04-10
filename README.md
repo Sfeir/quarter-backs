@@ -1,12 +1,14 @@
-# Quarters Back
-
 ![logo quarters back 2017](LOGO_QUARTERS_BACK.png)
 
-Welcome to landing page of the new SFEIR back meetups.
+# Quarters Back
 
-The idea behind those meetups is to keep up with state of the art about all technologies evolving around what's called the back-end part of software develpment.
+> ###Welcome to landing page of the new SFEIR back meetups.
 
-the 'Quarters Back' meetups are open for all with respect of the following :
+The idea behind those meetups is to keep up to date with state of the art about all technologies evolving around so called **the back-end** in the software development industry.
+
+All Languages, architecutres and languages are welcome.
+
+The 'Quarters Back' meetups are open for all with respect of the following :
 
 - make a proposal by adding an issue on the current repository
 - Talks must not exceed 15' 
