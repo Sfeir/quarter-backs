@@ -21,7 +21,9 @@ The 'Quarters Back' meetups are open for all with respect of the following :
 - All technologies, technics, architectures ...etc are welcome
 - Demos are welcome
 
-**SFEIR** will offer :pizza: and :tropical_drink: and all events will be held in SFEIR head quarters and start generally at :hourglass: 18h30
+>
+> **SFEIR** will offer :pizza: and :tropical_drink: and all events will be held in SFEIR head quarters and start generally at :hourglass: 18h30
+>
 
 ## Pre-Talk proposal
 
