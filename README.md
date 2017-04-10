@@ -34,7 +34,7 @@ SFEIR will offer snacks and drinks and all events will be held in SFEIR head qua
 ### Add Label, Assignees and a milestone
 ![issue_meta_data](ISSUE_META.png)
 
-> - Boom ! you're done, but one more thing ... 
+### Greate, you're done !
 ![issue_created](ISSUE_CREATED.png)
 
 ## Post Talk
