@@ -25,13 +25,13 @@ SFEIR will offer snacks and drinks and all events will be held in SFEIR head qua
 
 ## Pre-Talk proposal
 
-### Create a new issue and give it a shaky title
+### Create a new issue and give it a `shaky` title
 ![logo quarters back 2017](NEW_ISSUE.png)
 
 ### We've provided you with an issue template
 ![logo quarters back 2017](ISSUE_TEMPLATE.png)
 
-### Add Assignees, milestone, ...etc
+### Add Label, Assignees and a milestone
 ![logo quarters back 2017](ISSUE_META.png)
 
 > - Boom ! you're done, but one more thing ... 
@@ -40,4 +40,4 @@ SFEIR will offer snacks and drinks and all events will be held in SFEIR head qua
 - [ ] add a comment to the issue and add all talk materials (github repository, slides, running demos ...etc)
 - [ ] add a comment to give us a feedback 
 
-Now you're really done
+## Now you're really done :smile:
