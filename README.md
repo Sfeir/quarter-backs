@@ -1,12 +1,12 @@
 ![logo quarters back 2017](LOGO_QUARTERS_BACK.png)
 
 
-index 
-[Mai 2nd 2017](https://github.com/Sfeir/quarters-back/milestone/1)
+### index 
+- [Mai 2nd 2017](https://github.com/Sfeir/quarters-back/milestone/1)
 
 # Quarters Back
 
-> - ###Welcome to landing page of the new SFEIR back meetups.
+> ### Welcome to landing page of the new SFEIR back meetups.
 
 The idea behind those meetups is to keep up to date with state of the art about all technologies evolving around so called **the back-end** in the software development industry.
 
