@@ -1,6 +1,6 @@
 # Quarters Back
 
-![logo quarters back 2017][LOGO_QUARTERS_BACK.png]
+![logo quarters back 2017](LOGO_QUARTERS_BACK.png)
 
 Welcome to landing page of the new SFEIR back meetups.
 
