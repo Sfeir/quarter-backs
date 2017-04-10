@@ -1,5 +1,7 @@
 # Quarters Back
 
+![logo quarters back 2017][LOGO_QUARTERS_BACK.png]
+
 Welcome to landing page of the new SFEIR back meetups.
 
 The idea behind those meetups is to keep up with state of the art about all technologies evolving around what's called the back-end part of software develpment.
