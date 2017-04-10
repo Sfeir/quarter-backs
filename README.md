@@ -16,26 +16,28 @@ All Languages, architecutres and languages are welcome.
 
 The 'Quarters Back' meetups are open for all with respect of the following :
 
-- make a proposal by adding an issue on the current repository
+- make a proposal by adding an [new issue](https://github.com/Sfeir/quarters-back/issues/new) on the current repository
 - Talks must not exceed 15' 
 - All technologies, technics, architectures ...etc are welcome
 - Demos are welcome
 
-SFEIR will offer snacks and drinks and all events will be held in SFEIR head quarters and start at 18h30
+SFEIR will offer snacks and drinks and all events will be held in SFEIR head quarters and start generally at 18h30
 
 ## Pre-Talk proposal
 
-- [ ] Create a new issue
-- [ ] give it a shaky title
-- [ ] indicate time slot (15' max) and a short description
-- [ ] Assign all speakers
-- [ ] select the milestone (qb-YYYYMMdd)
-- [ ] select a label (Talk, Hands-On or Request)
+### Create a new issue and give it a shaky title
+![logo quarters back 2017](NEW_ISSUE.png)
 
-Boom ! done 
+### We've provided you with an issue template
+![logo quarters back 2017](ISSUE_TEMPLATE.png)
+
+### Add Assignees, milestone, ...etc
+![logo quarters back 2017](ISSUE_META.png)
+
+> - Boom ! you're done, but one more thing ... 
 
 ## Post Talk
 - [ ] add a comment to the issue and add all talk materials (github repository, slides, running demos ...etc)
 - [ ] add a comment to give us a feedback 
 
-Thanks
+Now you're really done
