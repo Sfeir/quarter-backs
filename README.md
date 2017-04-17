@@ -1,5 +1,3 @@
-![logo quarters back 2017](assets/LOGO_QUARTERS_BACK.png)
-
 <!-- ### Archived -->
 
 ### Latest News
@@ -7,6 +5,7 @@
 - [May 18th 2017 Hashicorp User Group Meetup HUG](https://github.com/Sfeir/quarters-back/milestone/3) *processing...*
 - [June 6th 2017](https://github.com/Sfeir/quarters-back/milestone/2) ?
 
+![logo quarters back 2017](assets/LOGO_QUARTERS_BACK.png)
 
 # Quarters Back
 
