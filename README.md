@@ -25,7 +25,7 @@ The 'Quarters Back' meet-ups are open for all with respect of the following :
 - Come as you are, talk about what ever you want the you way you want.
 
 >
-> **SFEIR** will offer :pizza: and :tropical_drink: and all events will be held in SFEIR head quarters and start generally at :hourglass: 18h30
+> **SFEIR** will offer :pizza: and :tropical_drink: and all events will be held in SFEIR head quarters and start generally at :hourglass: 19h00
 >
 
 # How to make a Talk proposal ?
