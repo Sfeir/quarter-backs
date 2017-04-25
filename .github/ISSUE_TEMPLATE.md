@@ -14,7 +14,7 @@
 - [ ] indicate time slot (15' max) and a short description
 - [ ] Assign all speakers
 - [ ] select the milestone (qb-YYYYMMdd)
-- [ ] select a label (Talk, Hands-On or Request)
+- [ ] select a label (Talk, Hands-On or Request, beginner ...etc)
 
 #### Post Talk
 - [ ] add a comment to the issue and add all talk materials (github repository, slides, running demos ...etc)
