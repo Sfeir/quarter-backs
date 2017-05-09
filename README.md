@@ -2,7 +2,7 @@
 
 ### QB Latest News
 - [May 2nd 2017](https://github.com/Sfeir/quarters-back/milestone/1) *confirmed*
-- **EXTERNAL EVENT** [May 18th 2017 Hashicorp User Group Meetup HUG](https://github.com/Sfeir/quarters-back/milestone/3) *processing...*
+- **EXTERNAL EVENT** [May 23rd 2017 Hashicorp User Group Meetup HUG](https://github.com/Sfeir/quarters-back/milestone/3) *processing...*
 - [June 6th 2017](https://github.com/Sfeir/quarters-back/milestone/2) ?
 
 ![logo quarters back 2017](assets/LOGO_QUARTERS_BACK.png)
