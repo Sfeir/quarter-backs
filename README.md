@@ -1,9 +1,12 @@
 <!-- ### Archived -->
 
-### QB Latest News
-- [May 2nd 2017](https://github.com/Sfeir/quarters-back/milestone/1) *confirmed*
-- **EXTERNAL EVENT** [May 23rd 2017 Hashicorp User Group Meetup HUG](https://github.com/Sfeir/quarters-back/milestone/3) *processing...*
-- [June 6th 2017](https://github.com/Sfeir/quarters-back/milestone/2) ?
+### Touchdowns
+- [May 2nd 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170502) *released*
+- [June 6th 2017](https://github.com/Sfeir/quarters-back/milestone/2) *confirmed*
+- [July 4th 2017](https://github.com/Sfeir/quarters-back/milestone/3) *processing*
+
+### External Events
+- [Hashicorp User Group Meetup HUG](https://github.com/Sfeir/quarters-back/milestone/3) May 23rd 2017 *processing...*
 
 ![logo quarters back 2017](assets/LOGO_QUARTERS_BACK.png)
 
