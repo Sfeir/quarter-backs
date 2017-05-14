@@ -6,7 +6,7 @@
 - [July 4th 2017](https://github.com/Sfeir/quarters-back/milestone/3) *processing*
 
 ### External Events
-- [Hashicorp User Group Meetup HUG](https://github.com/Sfeir/quarters-back/milestone/3) May 23rd 2017 *processing...*
+- [Hashicorp User Group Meetup HUG](https://github.com/Sfeir/quarters-back/milestone/1000) *reported...*
 
 ![logo quarters back 2017](assets/LOGO_QUARTERS_BACK.png)
 
