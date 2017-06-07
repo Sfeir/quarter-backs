@@ -1,0 +1,40 @@
+pipeline {
+    agent any
+    tools {
+        // this tool must be configured in Jenkins
+        maven 'Maven 3.5.0'
+    }
+
+    stages {
+        stage('Build') {
+            steps {
+                sh 'mvn -B -s ./settings.xml clean package -DskipTests'
+            }
+        }
+        stage('Test') {
+            steps {
+                sh 'mvn -B -s ./settings.xml -Dmaven.test.failure.ignore=true test'
+            }
+            post {
+                success {
+                    // Jenkins junit plugin
+                    junit 'target/surefire-reports/**/*.xml'
+                }
+            }
+        }
+        stage('Sonar analysis'){
+            steps {
+                // 'withSonarQubeEnv' comes from Jenkins Sonar plugin
+                // 'Sfeir Sonar' must be configured in Jenkins
+                withSonarQubeEnv('Sfeir Sonar') {
+                    sh 'mvn -B -s ./settings.xml sonar:sonar'
+                }
+            }
+        }
+        stage('Deploy') {
+            steps {
+                sh 'mvn -B -s ./settings.xml deploy -DskipTests'
+            }
+        }
+    }
+}
