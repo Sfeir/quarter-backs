@@ -25,7 +25,7 @@ All Languages, architectures and languages are welcome.
 The 'Quarters Back' meet-ups are open for all with respect of the following :
 
 - make a proposal by adding an [new issue](https://github.com/Sfeir/quarters-back/issues/new) on the current repository
-- Talks must not exceed **15' (experimental)** 
+- Talks must not exceed **20' (experimental)** 
 - All technologies, architectures ...etc are welcome
 - Demos are welcome
 - Come as you are, talk about what ever you want the you way you want.
