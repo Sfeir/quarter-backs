@@ -13,7 +13,7 @@
 - [October 3th 2017](https://github.com/Sfeir/quarters-back/milestone/5) *scheduled*
 - [November 7th 2017](https://github.com/Sfeir/quarters-back/milestone/6) *scheduled*
 
-# Quarters Back
+# Quarter Backs
 
 > ### Welcome to landing page of the new SFEIR back meet-ups.
 
