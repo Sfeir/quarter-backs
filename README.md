@@ -7,7 +7,7 @@
 
 ### Touchdowns
 - [May 2nd 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170502) *released*
-- [June 6th 2017](https://github.com/Sfeir/quarters-back/milestone/2) *released*
+- [June 6th 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170606) *released*
 - [July 4th 2017](https://github.com/Sfeir/quarters-back/milestone/3) *scheduled*
 - [September 5th 2017](https://github.com/Sfeir/quarters-back/milestone/4) *scheduled*
 - [October 3th 2017](https://github.com/Sfeir/quarters-back/milestone/5) *scheduled*
