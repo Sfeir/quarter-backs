@@ -12,7 +12,7 @@
 
 - [X] Create a new issue
 - [ ] give it a shaky title
-- [ ] indicate time slot (15' max) and a short description
+- [ ] indicate time slot (20' max) and a short description
 - [ ] Assign all speakers
 - [ ] select the milestone (qb-YYYYMMdd)
 - [ ] select a label (Talk, Hands-On or Request, beginner ...etc)
