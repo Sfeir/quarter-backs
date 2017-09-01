@@ -7,7 +7,7 @@
 
 ### Pitch
 
-<!-- your description here -->
+your description here
 
 ### Rock Star Check list
 
