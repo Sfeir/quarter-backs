@@ -1,14 +1,15 @@
 ### Time slot
+
 - [ ] 5'
 - [ ] 10'
 - [ ] 15'
 - [ ] 20'
 
-### Description
+### Pitch
 
 <!-- your description here -->
 
-#### Pre-Talk proposal
+### Rock Star Check list
 
 - [X] Create a new issue
 - [ ] give it a shaky title
@@ -16,7 +17,13 @@
 - [ ] Assign all speakers
 - [ ] select the milestone (qb-YYYYMMdd)
 - [ ] select a label (Talk, Hands-On or Request, beginner ...etc)
-
-#### Post Talk
 - [ ] add a comment to the issue and add all talk materials (github repository, slides, running demos ...etc)
 - [ ] add a comment to give us a feedback 
+
+### Some advises
+
+- Try to use simple words
+- A picture better than 1000 words
+- KISS
+- try not to use lot of screen switch (we don't provide vomit bags)
+- have fun and try to interact with your audience.
