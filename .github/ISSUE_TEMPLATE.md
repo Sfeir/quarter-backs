@@ -25,5 +25,5 @@ your description here
 - Try to use simple words
 - A picture better than 1000 words
 - KISS :kiss:
-- try not to use lot of screen switch (we don't provide :vomit: bags)
+- try not to use lot of screen switch (we don't provide :cold_sweat: bags)
 - have fun and try to interact with your audience.
