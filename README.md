@@ -9,8 +9,8 @@
 - [May 2nd 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170502) *released*
 - [June 6th 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170606) *released*
 - [July 4th 2017](https://github.com/Sfeir/quarters-back/releases/tag/untagged-0de37cfd7faeec7fb839) *CANCELLED*
-- [September 5th 2017](https://github.com/Sfeir/quarters-back/milestone/4) *scheduled*
-- [October 3th 2017](https://github.com/Sfeir/quarters-back/milestone/5) *early-draft*
+- [September 5th 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170912) *released on September 12th*
+- [October ?th 2017](https://github.com/Sfeir/quarters-back/milestone/5) *scheduled*
 - [November 7th 2017](https://github.com/Sfeir/quarters-back/milestone/6) *early-draft*
 
 # Quarter Backs
