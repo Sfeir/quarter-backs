@@ -23,7 +23,7 @@ your description here
 ### Some advises
 
 - Try to use simple words
-- A picture better than 1000 words
+- A picture better worth 1000 words
 - KISS :kiss:
-- try not to use lot of screen switch (we don't provide :cold_sweat: bags)
-- have fun and try to interact with your audience.
+- try not to use lot of screen switch (we don't provide vomit bags)
+- and more especially, have fun and try to interact with your audience.
