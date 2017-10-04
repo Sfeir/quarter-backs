@@ -1,9 +1,9 @@
 ### Time slot
 
-- [ ] 5'
-- [ ] 10'
-- [ ] 15'
-- [ ] 20'
+- [ ] 5'   (best to introduce a concept, a lib, an algorithm)
+- [ ] 10'  (best to make a demo talk about a lib, an algorithm,)
+- [ ] 15'  (best to talk about any back subject with some slides and may be a lightening demo)
+- [ ] 20'  (The ted.com format)
 
 ### Pitch
 
