@@ -3,7 +3,7 @@
 - [Hashicorp User Group Meetup HUG](https://github.com/Sfeir/quarters-back/milestone/1000) *reported...*
 -->
 
-![logo quarters back 2017](assets/LOGO_QUARTERS_BACK.png)
+![logo quarters back 2017](assets/logo-quarterbacks.png)
 
 ### Touchdowns
 - [May 2nd 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170502) *released*
