@@ -11,7 +11,7 @@
 - [July 4th 2017](https://github.com/Sfeir/quarters-back/releases/tag/untagged-0de37cfd7faeec7fb839) *CANCELLED*
 - [September 5th 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170912) *released on September 12th*
 - [October 17th 2017](https://github.com/Sfeir/quarters-back/milestone/5) *confirmed*
-- [November 14th 2017](https://github.com/Sfeir/quarters-back/milestone/6) *Special Theme meetup about GCP*
+- [November 14th 2017](https://github.com/Sfeir/quarters-back/milestone/6) ![gcp logo](assets/gcp-logo.png)
 
 # Quarter Backs
 
