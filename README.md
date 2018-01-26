@@ -10,16 +10,12 @@
 - [November 14th 2017](https://github.com/Sfeir/quarters-back/milestone/6) 
 ![gcp logo](assets/gcp-logo.png)
 -->
-
-![logo quarters back 2017](assets/logo-quarterbacks.png)
-
 > # Coming Session
 > - Server Side Javascript [February 9th 2018](https://github.com/Sfeir/quarters-back/milestone/8) 
 
+![logo quarters back 2017](assets/logo-quarterbacks.png)
 
-# Quarter Backs
-
-> ### Welcome to landing page of the new SFEIR back meet-ups.
+### Welcome to landing page of the new SFEIR back meet-ups.
 
 The idea behind those meet-ups is to keep up to date with state of the art about all technologies evolving around so 
 called **the back-end** in the software development industry.
