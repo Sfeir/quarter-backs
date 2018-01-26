@@ -1,10 +1,6 @@
 <!-- ### Archived 
 ### External Events
 - [Hashicorp User Group Meetup HUG](https://github.com/Sfeir/quarters-back/milestone/1000) *reported...*
--->
-
-![logo quarters back 2017](assets/logo-quarterbacks.png)
-
 ### Touchdowns
 - [May 2nd 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170502) *released*
 - [June 6th 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170606) *released*
@@ -13,6 +9,13 @@
 - [October 17th 2017](https://github.com/Sfeir/quarters-back/milestone/5) *confirmed*
 - [November 14th 2017](https://github.com/Sfeir/quarters-back/milestone/6) 
 ![gcp logo](assets/gcp-logo.png)
+-->
+
+![logo quarters back 2017](assets/logo-quarterbacks.png)
+
+> # Coming Session
+> - Server Side Javascript [February 9th 2018](https://github.com/Sfeir/quarters-back/milestone/8) 
+
 
 # Quarter Backs
 
