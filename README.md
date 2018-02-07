@@ -8,10 +8,11 @@
 - [September 5th 2017](https://github.com/Sfeir/quarters-back/releases/tag/qb-20170912) *released on September 12th*
 - [October 17th 2017](https://github.com/Sfeir/quarters-back/milestone/5) *confirmed*
 - [November 14th 2017](https://github.com/Sfeir/quarters-back/milestone/6) 
+- Server Side Javascript [February 9th 2018](https://github.com/Sfeir/quarters-back/milestone/8)
 ![gcp logo](assets/gcp-logo.png)
 -->
 > # Coming Session
-> - Server Side Javascript [February 9th 2018](https://github.com/Sfeir/quarters-back/milestone/8) 
+> - Cloud Native Containers [March 6th 2018](https://github.com/Sfeir/quarters-back/milestone/9) 
 
 ![logo quarters back 2017](assets/logo-quarterbacks.png)
 
