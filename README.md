@@ -14,7 +14,7 @@
 > # Coming Session
 > - Cloud Native Containers [March 6th 2018](https://github.com/Sfeir/quarters-back/milestone/9) 
 
-![logo quarters back 2017](assets/logo-quarterbacks.png)
+![logo quarters back 2018](qb.png)
 
 ### Welcome to landing page of the new SFEIR back meet-ups.
 
