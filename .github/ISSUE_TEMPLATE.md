@@ -20,7 +20,7 @@ your description here
 - [ ] add a comment to the issue and add all talk materials (github repository, slides, running demos ...etc)
 - [ ] add a comment to give us a feedback 
 
-### Some advises
+### Some advices
 
 - Try to use simple words
 - A picture better worth 1000 words
