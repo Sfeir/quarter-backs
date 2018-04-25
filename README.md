@@ -12,7 +12,8 @@
 ![gcp logo](assets/gcp-logo.png)
 -->
 > # Coming Session
-> - Cloud Native Containers [March 6th 2018](https://github.com/Sfeir/quarters-back/milestone/9) 
+> - Happy Birthday Quarter Backs [May 22nd 2018](https://github.com/Sfeir/quarters-back/milestone/11) 
+> - Cloud Native Applications with Spring [June 5th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
 
 ![logo quarters back 2018](qb.png)
 
