@@ -17,4 +17,4 @@
 
 ![logo quarters back 2018](qb.png)
 
-Please follow steps in ![CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
+Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
