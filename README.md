@@ -11,10 +11,10 @@
 - Server Side Javascript [February 9th 2018](https://github.com/Sfeir/quarters-back/milestone/8)
 ![gcp logo](assets/gcp-logo.png)
 -->
+![logo quarters back 2018](qb.png)
+
 > # Coming Session
 > - Happy Birthday Quarter Backs [May 22nd 2018](https://github.com/Sfeir/quarters-back/milestone/11) 
 > - Cloud Native Applications with Spring [June 5th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
-
-![logo quarters back 2018](qb.png)
 
 Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
