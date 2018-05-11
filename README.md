@@ -15,6 +15,6 @@
 
 > # Coming Session
 > - Happy Birthday Quarter Backs [May 22nd 2018](https://github.com/Sfeir/quarters-back/milestone/11) 
-> - Cloud Native Applications [June 5th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
+> - Cloud Native Applications [June 26th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
 
 Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
