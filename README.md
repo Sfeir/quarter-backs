@@ -9,12 +9,16 @@
 - [October 17th 2017](https://github.com/Sfeir/quarters-back/milestone/5) *confirmed*
 - [November 14th 2017](https://github.com/Sfeir/quarters-back/milestone/6) 
 - Server Side Javascript [February 9th 2018](https://github.com/Sfeir/quarters-back/milestone/8)
+- - Happy Birthday Quarter Backs [May 22nd 2018](https://github.com/Sfeir/quarters-back/milestone/11) 
 ![gcp logo](assets/gcp-logo.png)
 -->
 ![logo quarters back 2018](qb.png)
 
 > # Coming Session
-> - Happy Birthday Quarter Backs [May 22nd 2018](https://github.com/Sfeir/quarters-back/milestone/11) 
 > - Cloud Native Applications [June 26th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
+> - Spring Eco System [July 24th 2018](https://github.com/Sfeir/quarters-back/milestone/13) 
+> - Kubernetes [August 21st 2018](https://github.com/Sfeir/quarters-back/milestone/14)
+> - Kotlin [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/15)
+> - Agility [October 9th 2018](https://github.com/Sfeir/quarters-back/milestone/16)
 
 Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
