@@ -15,7 +15,7 @@
 ![logo quarters back 2018](qb.png)
 
 > # Coming Session
-> - Cloud Native Applications [June 26th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
+> - **Cloud Native Applications** [June 26th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
 > - Spring Eco System [July 24th 2018](https://github.com/Sfeir/quarters-back/milestone/13) 
 > - Kubernetes [August 21st 2018](https://github.com/Sfeir/quarters-back/milestone/14)
 > - Kotlin [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/15)
