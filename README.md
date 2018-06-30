@@ -12,7 +12,7 @@
 - - Happy Birthday Quarter Backs [May 22nd 2018](https://github.com/Sfeir/quarters-back/milestone/11) 
 ![gcp logo](assets/gcp-logo.png)
 -->
-![logo quarters back 2018](jean-cloud.jpg)
+![logo quarters back 2018](assets/jean-cloud.jpg)
 
 ### Quarter Backs is a meetup happening once a month at SFEIR facilities. It's an open source meetup made by developers for developers.
 
