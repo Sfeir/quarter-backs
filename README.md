@@ -17,7 +17,7 @@
 ### Quarter Backs is a meetup happening once a month at SFEIR facilities. It's an open source meetup made by developers for developers.
 
 > # Coming Session
-> - **Cloud Native Applications** [July 7th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
+> - **Cloud Native Applications** [Tuesday July 10th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
 > - Nuts and Bolts [August 21st 2018](https://github.com/Sfeir/quarters-back/milestone/14)
 > - Kotlin [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/15)
 > - Serverless [October 9th 2018](https://github.com/Sfeir/quarters-back/milestone/16)
