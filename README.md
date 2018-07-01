@@ -20,6 +20,6 @@
 > - **Cloud Native Applications** [July 7th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
 > - Nuts and Bolts [August 21st 2018](https://github.com/Sfeir/quarters-back/milestone/14)
 > - Kotlin [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/15)
-> - Agility [October 9th 2018](https://github.com/Sfeir/quarters-back/milestone/16)
+> - Serverless [October 9th 2018](https://github.com/Sfeir/quarters-back/milestone/16)
 
 Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
