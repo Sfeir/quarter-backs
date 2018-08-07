@@ -18,8 +18,8 @@
 ### Quarter Backs is a meetup happening once a month at SFEIR facilities. It's an open source meetup made by developers for developers.
 
 > # Coming Session
-> - **Nuts and Bolts** [August 21st 2018](https://github.com/Sfeir/quarters-back/milestone/15)
-> - Kotlin [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/13)
+> - **Nuts and Bolts** [August 21st 2018](https://github.com/Sfeir/quarters-back/milestone/15) [Register]()
+> - Kotlin [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/13) [Register](https://sfeir.facebook.com/events/271065980146745/)
 > - Serverless [October 9th 2018](https://github.com/Sfeir/quarters-back/milestone/16)
 
 Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
