@@ -21,6 +21,6 @@
 > # Coming Session
 > - **Kotlin** [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/13) - [Register](https://sfeir.facebook.com/events/271065980146745/)
 > - **Google Container Tools** with **David Gageot** from *Google* [October 23rd 2018](https://github.com/Sfeir/quarters-back/milestone/17) - [Register](#)
-> - Serverless [November xxth 2018](https://github.com/Sfeir/quarters-back/milestone/16)
+> - Service Mesh [November 13th 2018](https://github.com/Sfeir/quarters-back/milestone/16)
 
 Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
