@@ -12,14 +12,15 @@
 - Happy Birthday Quarter Backs [May 22nd 2018](https://github.com/Sfeir/quarters-back/milestone/11) 
 - **Cloud Native Applications** [Tuesday July 10th 2018](https://github.com/Sfeir/quarters-back/milestone/12) 
 ![gcp logo](assets/gcp-logo.png)
+> - **Nuts and Bolts** [August 21st 2018](https://github.com/Sfeir/quarters-back/milestone/15) - [Register](https://sfeir.facebook.com/events/1864748226915116/)
 -->
 ![logo quarters back 2018](assets/jean-cloud.jpg)
 
 ### Quarter Backs is a meetup happening once a month at SFEIR facilities. It's an open source meetup made by developers for developers.
 
 > # Coming Session
-> - **Nuts and Bolts** [August 21st 2018](https://github.com/Sfeir/quarters-back/milestone/15) - [Register](https://sfeir.facebook.com/events/1864748226915116/)
-> - Kotlin [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/13) - [Register](https://sfeir.facebook.com/events/271065980146745/)
-> - Serverless [October 9th 2018](https://github.com/Sfeir/quarters-back/milestone/16)
+> - **Kotlin** [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/13) - [Register](https://sfeir.facebook.com/events/271065980146745/)
+> - **Google Container Tools** with **David Gageot** from *Google* [October 23rd 2018](https://github.com/Sfeir/quarters-back/milestone/17) - [Register](#)
+> - Serverless [November xxth 2018](https://github.com/Sfeir/quarters-back/milestone/16)
 
 Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
