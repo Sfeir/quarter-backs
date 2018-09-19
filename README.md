@@ -21,7 +21,7 @@
 
 > # Coming Session
 
-> - **Google Container Tools** with **David Gageot** from *Google* [October 23rd 2018](https://github.com/Sfeir/quarters-back/milestone/17) - [Register](#)
+> - **Google Container Tools** with **David Gageot** from *Google* [October 23rd 2018](https://github.com/Sfeir/quarters-back/milestone/17) - [Register](https://sfeir.facebook.com/events/240865906547736/)
 > - Service Mesh [November 13th 2018](https://github.com/Sfeir/quarters-back/milestone/16)
 
 Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
