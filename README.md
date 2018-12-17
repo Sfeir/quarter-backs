@@ -14,14 +14,13 @@
 ![gcp logo](assets/gcp-logo.png)
 > - **Nuts and Bolts** [August 21st 2018](https://github.com/Sfeir/quarters-back/milestone/15) - [Register](https://sfeir.facebook.com/events/1864748226915116/)
 > - **Kotlin** [September 11th 2018](https://github.com/Sfeir/quarters-back/milestone/13) - [Register](https://sfeir.facebook.com/events/271065980146745/)
+> - **Google Container Tools** with **David Gageot** from *Google* [October 23rd 2018](https://github.com/Sfeir/quarters-back/milestone/17) - [Register](https://sfeir.facebook.com/events/240865906547736/)
 -->
 ![logo quarters back 2018](assets/jean-cloud.jpg)
 
 ### Quarter Backs is a meetup happening once a month at SFEIR facilities. It's an open source meetup made by developers for developers.
 
 > # Coming Session
-
-> - **Google Container Tools** with **David Gageot** from *Google* [October 23rd 2018](https://github.com/Sfeir/quarters-back/milestone/17) - [Register](https://sfeir.facebook.com/events/240865906547736/)
-> - Service Mesh [November 13th 2018](https://github.com/Sfeir/quarters-back/milestone/16)
+> - **Service Mesh [January 22nd 2019]**(https://github.com/Sfeir/quarters-back/milestone/16)
 
 Please follow steps in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute to the meetup
